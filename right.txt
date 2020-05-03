@@ -1,0 +1,7 @@
+This is an example file used to test my code
+this is the second line of the file
+this is the third line of the file
+this is the fourth
+this is the fifth
+this is the sixth
+this is the seventh
